@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ScottDaniels292.github.io/snippets-wf0uv0/sitemap.xml
